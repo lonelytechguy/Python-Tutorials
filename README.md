@@ -7,10 +7,11 @@ This tutorial is composed of many topics which shall be updated from time to tim
 <h2>1. PYTHON VARIABLES</h2> 
 	
 <p>This topic addresses concepts such as: 
-	<ul>
-    <li>creation of variables</li>
-		<li>naming of variables</li>
-		<li>local and global variables</li>
+    <ul>
+        <li>creation of variables</li>
+	<li>naming of variables</li>
+	<li>local and global variables</li>
+	<li>global keyword</li>
 	</ul>
 	<hr>
 </p> 
