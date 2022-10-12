@@ -4,7 +4,7 @@
 		
 This tutorial is composed of many topics which shall be updated from time to time. They are as listed and described below:
 			
-<h2>1. PYTHON VARIABLES</h2> 
+<h2>1. PYTHON VARIABLES AND COMMENTS</h2> 
 	
 <p>This topic addresses concepts such as: 
     <ul>
@@ -12,6 +12,7 @@ This tutorial is composed of many topics which shall be updated from time to tim
 	<li>naming of variables</li>
 	<li>local and global variables</li>
 	<li>global keyword</li>
+	<li>comments</li>
 	</ul>
 	<hr>
 </p> 
