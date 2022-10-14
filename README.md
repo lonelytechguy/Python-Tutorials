@@ -24,6 +24,9 @@ This tutorial is composed of many topics which shall be updated from time to tim
         <li>if statement</li>
         <li>if...else statement</li>
     </ul>
+    <hr>
+</p>
+    
     
     
 
