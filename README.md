@@ -17,4 +17,14 @@ This tutorial is composed of many topics which shall be updated from time to tim
 	<hr>
 </p> 
 
+<h2>2. PYTHON CONDITIONAL STATEMENTS</h2>
+
+<p>Concepts addressed include:
+    <ul>
+        <li>if statement</li>
+        <li>if...else statement</li>
+    </ul>
+    
+    
+
 <p>Kindly note that each subtopic will have its own Python file(s) added to the repo. Stay tuned for more updates.</p>
