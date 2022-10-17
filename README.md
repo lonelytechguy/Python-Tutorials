@@ -26,7 +26,16 @@ This tutorial is composed of many topics which shall be updated from time to tim
     </ul>
     <hr>
 </p>
-    
+
+<h2>3. PYTHON LOOPS</h2>
+
+<p>Concepts include:
+    <ul>
+        <li>for loop</li>
+        <li>while loop</li>
+    </ul>
+    <hr>
+</p>
     
     
 
