@@ -36,6 +36,15 @@ This tutorial is composed of many topics which shall be updated from time to tim
     </ul>
     <hr>
 </p>
+
+<h2>4. PYTHON LISTS</h2>
+
+<p> It includes concepts such as:
+    <ul>
+        <li>How to create a list</li>
+        <li>How to access list items</li>
+    <hr>
+</p>
     
     
 
