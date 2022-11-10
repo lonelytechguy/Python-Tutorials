@@ -42,7 +42,8 @@ This tutorial is composed of many topics which shall be updated from time to tim
 <p> It includes concepts such as:
     <ul>
         <li>How to create a list</li>
-        <li>How to access list items</li>
+        <li>How to access list items using index and loop</li>
+        <li>How to update list items
     <hr>
 </p>
     
